@@ -2,4 +2,4 @@ streamlit==1.25.0
 opencv-python
 numpy
 streamlit-drawable-canvas
-pillow==10.2.0
+pillow==9.5.0
