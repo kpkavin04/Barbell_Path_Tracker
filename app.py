@@ -64,3 +64,6 @@ if uploaded_file:
                 st.success("Done! Download below:")
                 with open(result_path, "rb") as f:
                     st.download_button("Download video", f, file_name="barbell_tracked.mp4", mime="video/mp4")
+
+st.divider()
+st.markdown("2025 Developed by **Parthipan Kavin**")
